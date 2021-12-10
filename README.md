@@ -20,7 +20,7 @@
    - pillow=8.2.0
 
 ## Dataset
-- Download [GTOS](https://1drv.ms/u/s!AmTf4gl42ObncLmEnEv4R5LyxT4?e=ekkFfX), [GTOS_MOBILE](https://1drv.ms/u/s!AmTf4gl42ObnblEtikrw4HfD9fc?e=LjJir4), [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/download/dtd-r1.0.1.tar.gz), [MINC](http://opensurfaces.cs.cornell.edu/static/minc/minc-2500.tar.gz),[KTH](https://www.csc.kth.se/cvap/databases/kth-tips/index.html),[FMD](https://people.csail.mit.edu/celiu/CVPR2010/FMD/) to the data folder
+- Download [GTOS](https://www.ece.rutgers.edu/~kdana/gts/index.html), [GTOS_MOBILE](https://drive.google.com/file/d/1Hd1G7aKhsPPMbNrk4zHNJAzoXvUzWJ9M/view), [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/download/dtd-r1.0.1.tar.gz), [MINC](http://opensurfaces.cs.cornell.edu/static/minc/minc-2500.tar.gz),[KTH](https://www.csc.kth.se/cvap/databases/kth-tips/index.html),[FMD](https://people.csail.mit.edu/celiu/CVPR2010/FMD/) to the data folder
 
 ## Bibtex
 ```
